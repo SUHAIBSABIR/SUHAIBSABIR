@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 Ask me about **Html, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **suhaibsabir110@gmail.com**
 
